@@ -12,7 +12,7 @@ import { Divider } from '@mui/material'
 const Index = () => {
   return (
     <BaseLayout>
-      <BasePage title="Tanadon | รับสร้างเว็บไซต์">
+      <BasePage title="Tanadon | Portfolio">
         <Home />
         <Divider />
         <About />

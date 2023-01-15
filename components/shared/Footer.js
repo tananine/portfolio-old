@@ -92,17 +92,20 @@ const Footer = () => {
             </div>
             <div>
               <SocialIcon
-                url="https://th.linkedin.com/"
+                url="https://www.linkedin.com/in/tanadon"
+                target="_blank"
                 style={{ width: '35px', height: '35px', marginRight: '10px' }}
                 bgColor="white"
               />
               <SocialIcon
-                url="https://github.com/"
+                url="https://github.com/tananine"
+                target="_blank"
                 style={{ width: '35px', height: '35px', marginRight: '10px' }}
                 bgColor="white"
               />
               <SocialIcon
-                url="https://www.youtube.com/"
+                url="https://www.youtube.com/@tana9"
+                target="_blank"
                 style={{ width: '35px', height: '35px', marginRight: '10px' }}
                 bgColor="white"
               />
