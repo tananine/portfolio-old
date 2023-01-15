@@ -1,0 +1,39 @@
+.container {
+  margin: 68px 0;
+  
+  .title {
+    display: flex;
+    font-size: 24px;
+    font-weight: 800;
+    justify-content: center;
+    margin-bottom: 18px;
+  }
+}
+.education {
+  border-radius: 16px;
+  margin-bottom: 20px;
+  padding: 8px;
+  
+  .image {
+    min-height: 180px;
+    position:relative;
+  }
+  .detail {
+    display: flex;
+    flex-direction: column;
+    font-weight: 600;
+    justify-content: center;
+    line-height: 32px;
+    padding: 14px;
+    
+    .name {
+      font-size: 22px;
+    }
+    .description {
+      font-size: 14px;
+    }
+    .status {
+      font-size: 18px;
+    }
+  }
+}

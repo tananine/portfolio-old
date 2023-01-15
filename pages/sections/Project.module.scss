@@ -1,0 +1,26 @@
+.container {
+  margin: 68px 0;
+  
+  .title {
+    display: flex;
+    font-size: 24px;
+    font-weight: 800;
+    justify-content: center;
+    margin-bottom: 18px;
+  }
+}
+.project {
+  border-radius: 0;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.06) 0px 2px 4px -1px;
+  
+  .image {
+    height: 170px;
+    position: relative;
+  }
+  .content {
+    background-color: #FFD800;
+    font-size: 18px;
+    font-weight: 800;
+    padding: 8px 14px;
+  }
+}

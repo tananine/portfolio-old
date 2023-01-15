@@ -1,0 +1,14 @@
+.container {
+  margin: 68px 0 38px 0;
+  
+  .title {
+    display: flex;
+    font-size: 24px;
+    font-weight: 800;
+    justify-content: center;
+    margin-bottom: 18px;
+  }
+  .card {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  }
+}
