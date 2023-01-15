@@ -99,7 +99,7 @@ const skills = [
   },
   {
     id: 24,
-    img: require('/public/skills/WordPress.png'),
+    img: require('/public/skills/Wordpress.png'),
     title: 'WordPress',
   },
 ]
