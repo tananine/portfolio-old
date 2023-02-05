@@ -45,7 +45,7 @@ const links = [
 
 const Footer = () => {
   const qlink = () => {
-    return links.map(link => {
+    return links.map((link) => {
       return (
         <AnchorLink offset="95" href={`#${link.title}`} key={link.id}>
           <Button
@@ -54,7 +54,7 @@ const Footer = () => {
               justifyContent: 'flex-start',
               width: 'fit-content',
               textTransform: 'unset',
-              color: 'white'
+              color: 'white',
             }}
           >
             ● {link.title}
@@ -82,7 +82,7 @@ const Footer = () => {
           <Grid item xs={12} md={4} className="p-4">
             <div className="mb-4 text-[20px] font-bold">Contact Info</div>
             <div className="mb-2">
-              <LocalPhoneIcon /> +66 992-944-988
+              <LocalPhoneIcon /> 099-294-4988
             </div>
             <div className="mb-2">
               <MailIcon /> tana9dev@gmail.com
