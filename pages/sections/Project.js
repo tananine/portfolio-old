@@ -34,7 +34,7 @@ const projects = [
     id: 2,
     title: 'Type Rhythm (Music Game)',
     img: require('/public/project/type-rhythm.png'),
-    tech: 'Next.js, MUI, Tailwind CSS, Javascript, HTML, CSS',
+    tech: 'React JS, MUI, Tailwind CSS, Javascript, HTML, CSS',
     description: 'Inspired by the audition game',
     git: 'https://github.com/tananine/Type-Rhythm',
     git2: '',
