@@ -12,7 +12,7 @@ const educations = [
     img: require('/public/education/kku.png'),
     name: 'Computer Science at Khonkaen University',
     description: 'Khonkaen University | KKU',
-    time: '2020-2024',
+    time: '2017 - 2021',
     status: 'Completed',
   },
 ]
