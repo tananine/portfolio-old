@@ -42,14 +42,14 @@ const About = () => {
             <div className={Class.job}>Full Stack Developer</div>
           </div>
           <div className={`${Class.description} text-center md:text-start`}>
-            Hello, My nickname is Jel.
+            Hello, My nickname is Jel. I like code code and code.
           </div>
           <div className={Class.contact}>
             <div>Email : tana9dev@gmail.com</div>
             <div>Phone : 099-294-4988</div>
           </div>
           <div className={Class.resume}>
-            <Button
+            {/* <Button
               className="w-full sm:w-[220px]"
               style={{
                 backgroundColor: '#7485F3',
@@ -62,7 +62,7 @@ const About = () => {
               variant="contained"
             >
               Resume
-            </Button>
+            </Button> */}
           </div>
         </Grid>
       </Grid>
