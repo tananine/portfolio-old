@@ -45,7 +45,7 @@ const About = () => {
             Hello, My nickname is Jel. I like code code and code.
           </div>
           <div className={Class.contact}>
-            <div>Email : tana9dev@gmail.com</div>
+            <div>Email : gjelsakun1@gmail.com</div>
             <div>Phone : 099-294-4988</div>
           </div>
           <div className={Class.resume}>
