@@ -64,7 +64,7 @@ const Project = () => {
             color="text.secondary"
             className="text-[14px] sm:text-[18px]"
           >
-            2021 - Present
+            2022 - Present
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineConnector />
