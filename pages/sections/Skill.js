@@ -74,8 +74,8 @@ const skills = [
   },
   {
     id: 17,
-    img: require('/public/skills/MySQL.png'),
-    title: 'MySQL',
+    img: require('/public/skills/SQL.png'),
+    title: 'SQL',
   },
   {
     id: 18,
