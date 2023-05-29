@@ -46,7 +46,7 @@ const About = () => {
           </div>
           <div className={Class.contact}>
             <div>Email : gjelsakun1@gmail.com</div>
-            <div>Phone : 099-294-4988</div>
+            <div>Phone : 092-799-7991</div>
           </div>
           <div className={Class.resume}>
             {/* <Button

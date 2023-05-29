@@ -82,7 +82,7 @@ const Footer = () => {
           <Grid item xs={12} md={4} className="p-4">
             <div className="mb-4 text-[20px] font-bold">Contact Info</div>
             <div className="mb-2">
-              <LocalPhoneIcon /> 099-294-4988
+              <LocalPhoneIcon /> 092-799-7991
             </div>
             <div className="mb-2">
               <MailIcon /> gjelsakun1@gmail.com
