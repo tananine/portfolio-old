@@ -28,7 +28,7 @@ const Project = () => {
     <div ref={ref} id="Experience" className={Class.container}>
       <div className={Class.title}>
         <BusinessCenterIcon className="mr-2" fontSize="large" />
-        Experience
+        Work Experience
       </div>
       <Timeline position="alternate">
         <TimelineItem>
@@ -38,7 +38,7 @@ const Project = () => {
             color="text.secondary"
             className="text-[14px] sm:text-[18px]"
           >
-            2020
+            Aug 2020
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineConnector />
@@ -52,7 +52,7 @@ const Project = () => {
               <div className="font-bold" component="span">
                 Mana 2018
               </div>
-              <div>UXUI Designer</div>
+              <div>UXUI & Product</div>
               <div>(Intern)</div>
             </div>
           </TimelineContent>
@@ -64,7 +64,7 @@ const Project = () => {
             color="text.secondary"
             className="text-[14px] sm:text-[18px]"
           >
-            2022 - Present
+            Mar 2022 - Present
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineConnector />
@@ -89,7 +89,7 @@ const Project = () => {
               <div className="font-bold" component="span">
                 NaYoo Coperation
               </div>
-              <div>Front-end Devloper</div>
+              <div>Front-end Developer</div>
               <div>(Full-time)</div>
             </div>
           </TimelineContent>

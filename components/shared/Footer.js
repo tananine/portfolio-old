@@ -85,7 +85,7 @@ const Footer = () => {
               <LocalPhoneIcon /> 092-799-7991
             </div>
             <div className="mb-2">
-              <MailIcon /> gjelsakun1@gmail.com
+              <MailIcon /> tanadon.ch@kkumail.com
             </div>
             <div className="mb-6">
               <HomeIcon /> 40000 Thailand
