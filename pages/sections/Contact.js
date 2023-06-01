@@ -75,8 +75,9 @@ const Project = () => {
                       color: '#000000',
                       ':hover': { color: '#ffffff' },
                     }}
+                    disable
                   >
-                    submit
+                    ส่งข้อมูล (ปรับปรุง)
                   </Button>
                 </div>
               </Box>
